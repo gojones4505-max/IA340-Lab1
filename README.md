@@ -1,6 +1,7 @@
 # IA 340 Python Codes
 
-![image](<img width="310" height="200" alt="image" src="https://github.com/user-attachments/assets/67a62d84-ee1a-40f8-a370-11c47d826d76" />)
+![image](![explore-programs](https://github.com/user-attachments/assets/fc82ef16-5190-4614-b40d-9659b6344473)
+
 
 
 This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336) python assignment.
