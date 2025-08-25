@@ -1,6 +1,6 @@
 # IA 340 Python Codes
 
-![image](![explore-programs](https://github.com/user-attachments/assets/fc82ef16-5190-4614-b40d-9659b6344473)
+(![explore-programs](https://github.com/user-attachments/assets/fc82ef16-5190-4614-b40d-9659b6344473)
 
 
 
